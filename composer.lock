@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "catfan/medoo",
-            "version": "v2.1.0",
+            "version": "v2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/catfan/Medoo.git",
-                "reference": "c69c054cf8fe64223fea7d9b7d0ab182e2c134ea"
+                "reference": "96c66aee57c0840b560f5c2546df5a5f25534045"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/catfan/Medoo/zipball/c69c054cf8fe64223fea7d9b7d0ab182e2c134ea",
-                "reference": "c69c054cf8fe64223fea7d9b7d0ab182e2c134ea",
+                "url": "https://api.github.com/repos/catfan/Medoo/zipball/96c66aee57c0840b560f5c2546df5a5f25534045",
+                "reference": "96c66aee57c0840b560f5c2546df5a5f25534045",
                 "shasum": ""
             },
             "require": {
@@ -72,7 +72,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2021-06-07T01:40:50+00:00"
+            "time": "2021-07-27T11:03:44+00:00"
         },
         {
             "name": "fig/http-message-util",
@@ -3216,6 +3216,7 @@
                     "type": "github"
                 }
             ],
+            "abandoned": true,
             "time": "2020-09-28T06:45:17+00:00"
         },
         {
