@@ -24,7 +24,7 @@
     "require": {
         "php": "^7.2 || ^8.0",
         "ext-json": "*",
-        "catfan/medoo": "^2.1",
+        "propel/propel": "~2.0@dev",
         "monolog/monolog": "^2.2",
         "php-di/php-di": "^6.3",
         "slim/psr7": "^1.3",

@@ -25,7 +25,7 @@ return function (App $app) {
 // Connect the database.
         $database = new Medoo([
             'type' => 'pgsql',
-            'host' => 'postgresql',
+            'host' => 'postgres',
             'database' => 'scacchieropoli',
             'username' => 'scacchieropoli',
             'password' => 'scacchieropoli'
